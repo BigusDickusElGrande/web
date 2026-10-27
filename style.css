@@ -96,13 +96,25 @@ body{
     position: sticky;
     bottom: 0;
     
-    background-color: darkgray;}
+    background: #bdbdbd;
+}
 .footer1{
     
     display: flex;
     align-self: bottom;
     justify-content: left;
     font-size: 24px;
+
+}
+.footer2{
+    
+    display: flex;
+    align-self: bottom;
+    justify-content: right;
+    font-size: 24px;
+    font-family: "titles";
+    font-weight: bold;
+    color: black;
 
 }
 /* ========================= */
