@@ -96,8 +96,7 @@ body{
     position: sticky;
     bottom: 0;
     
-    background: #bdbdbd;
-}
+    background-color: darkgray;}
 .footer1{
     
     display: flex;
