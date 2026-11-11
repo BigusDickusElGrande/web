@@ -128,10 +128,11 @@ body{
 /* VIDEO */
 /* ========================= */
 .media{
-    display: flex;
-    margin: auto;
-    position: absolute;
-    object-fit: cover;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
     border: 3px solid white;
 }
 
