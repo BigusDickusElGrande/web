@@ -130,7 +130,8 @@ body{
 .media{
     display: flex;
     margin: auto;
-
+    position: absolute;
+    object-fit: cover;
     border: 3px solid white;
 }
 
